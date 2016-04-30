@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">About me</string>
+    <string name="button1_name">Знания</string>
+    <string name="button2_name">Интересы</string>
+    <string name="button3_name">Контакт</string>
+    <string name="button4_name">in English</string>
+    <string name="button5_name">на Главную</string>
+    <string name="header_pro">Профессиональные навыки</string>
+    <string name="header_contact">Контакт</string>
+    <string name="pro_skils">
+    Большой опыт работы в сфере телеком. Навыки сетевых протоколов: Стек протоколов
+    TCP/IP(в особенности маршрутизация: протоколы OSPF,IS-IS,BGP и 2-й уровень: Ethernet, 802.1q, QinQ, MSTP, RRPP, ERPS, LLDP, CDP
+        опыт работы в мультисервисных сетях IP/MPLS и сервисов L2VPN PWE3, VPLS Kampella, VPLS Martini и L3VPN BGP VRF.
+        Знание транспортных сетей PDH, SDH, DWDM. Опыт работы ведущими вендорами: Cisco, Huawei, Juniper, D-link.
+    Опыт администрирования серверов под ОС Debian и FreeBSD: ISC-DHCP,Freeradius, Apache HTTP, CyrusIMAP.
+    Програмирование Shell, Perl, СУБД MySQL. Начальный уровень и огромный интерес к програмированию на Java в особенности сетевых
+        программ. Начальные знания Android, влечение к SQLite, страсть к Maven и нечеловеческая любовь к Git.
+    Планируемые знания: HTML,CSS,JavaScript,SVG,С++,С
+    </string>
+    <string name="contacts_text">
+       E-mail: d00020@mail.ru
+        Tel: 79133166336
+        WhatsUp,FaceBook,VK,linkedIN
+        Skype: oknebest
+    </string>
+    <string-array name="Contacts">
+        <item name="email">d00020@mail.ru</item>
+        <item name="skype">oknebest</item>
+    </string-array>
+    <string name="person_name">Александр Цебенко</string>
+
+</resources>
